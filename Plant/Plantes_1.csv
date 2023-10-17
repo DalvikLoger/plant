@@ -1,0 +1,39 @@
+Id;Dossiers;Classeurs;Chemins
+1;Apple___Apple_scab;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Apple___Apple_scab
+2;Apple___Black_rot;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Apple___Black_rot
+3;Apple___Cedar_apple_rust;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Apple___Cedar_apple_rust
+4;Apple___healthy;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Apple___healthy
+5;Blueberry___healthy;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Blueberry___healthy
+6;Cherry_(including_sour)___healthy;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Cherry_(including_sour)___healthy
+7;Cherry_(including_sour)___Powdery_mildew;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Cherry_(including_sour)___Powdery_mildew
+8;Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+9;Corn_(maize)___Common_rust_;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Corn_(maize)___Common_rust_
+10;Corn_(maize)___healthy;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Corn_(maize)___healthy
+11;Corn_(maize)___Northern_Leaf_Blight;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Corn_(maize)___Northern_Leaf_Blight
+12;Grape___Black_rot;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Grape___Black_rot
+13;Grape___Esca_(Black_Measles);train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Grape___Esca_(Black_Measles)
+14;Grape___healthy;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Grape___healthy
+15;Grape___Leaf_blight_(Isariopsis_Leaf_Spot);train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+16;Orange___Haunglongbing_(Citrus_greening);train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Orange___Haunglongbing_(Citrus_greening)
+17;Peach___Bacterial_spot;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Peach___Bacterial_spot
+18;Peach___healthy;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Peach___healthy
+19;Pepper_bell___Bacterial_spot;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Pepper_bell___Bacterial_spot
+20;Pepper_bell___healthy;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Pepper_bell___healthy
+21;Potato___Early_blight;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Potato___Early_blight
+22;Potato___healthy;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Potato___healthy
+23;Potato___Late_blight;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Potato___Late_blight
+24;Raspberry___healthy;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Raspberry___healthy
+25;Soybean___healthy;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Soybean___healthy
+26;Squash___Powdery_mildew;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Squash___Powdery_mildew
+27;Strawberry___healthy;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Strawberry___healthy
+28;Strawberry___Leaf_scorch;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Strawberry___Leaf_scorch
+29;Tomato___Bacterial_spot;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Tomato___Bacterial_spot
+30;Tomato___Early_blight;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Tomato___Early_blight
+31;Tomato___healthy;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Tomato___healthy
+32;Tomato___Late_blight;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Tomato___Late_blight
+33;Tomato___Leaf_Mold;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Tomato___Leaf_Mold
+34;Tomato___Septoria_leaf_spot;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Tomato___Septoria_leaf_spot
+35;Tomato___Spider_mites Two-spotted_spider_mite;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Tomato___Spider_mites Two-spotted_spider_mite
+36;Tomato___Target_Spot;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Tomato___Target_Spot
+37;Tomato___Tomato_mosaic_virus;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Tomato___Tomato_mosaic_virus
+38;Tomato___Tomato_Yellow_Leaf_Curl_Virus;train;archive-2/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train/Tomato___Tomato_Yellow_Leaf_Curl_Virus
